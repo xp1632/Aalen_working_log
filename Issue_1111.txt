@@ -1,0 +1,92 @@
+Issues 1111
+-----------------------------------------
+
+1. What is evolutionary image processing?
+
+Evolutionary optimization of image processing for cell detection in
+microscopy images 
+
+-------------------------------------------
+Main task today:
+
+1. evolutionary image processing
+
+2. Continue llm course
+
+3. Samuel's seminar
+---
+
+- 【explainable AI】 ： 
+
+- disadvantages of NN: 
+
+   - why decision is made during NN,
+   - also requries a lot of training data
+----
+
+- [differentiable image processing]
+	- gradients based optimization
+
+---
+
+### gist: 
+
+- the node in our case is the image operation 
+- we push paramater of the operation instead of weights of node
+- try to find a benchmark : input image <--what's the  original program--> output image 
+
+- this is for image registration and reverse [let the system to repair the damage of the image] 
+
+- we need an env, dark --> light; noise ---> unnoise
+- list of operation
+
+---
+
+[samuel's task] :
+
+- prepare a image problem dataset that: 
+
+problem types: classification, single object detection, multi object detection, image registration, 
+
+
+trainng_data/test_data:
+
+**x** --> image_that is too dark
+**y** --> image_that is lightened and not too dark now
+**cost function** to compare if the images are identical for different type of problem: L2 norm, PSNR,SSIM,
+
+---
+- possible problems:
+
+- brightness/contrast/hue/saturation
+- to
+- image 
+
+- image category: 
+- find industry-image problems
+
+
+
+ 
+
+---
+
+[manuela's task]
+
+- take care of the model part 
+- GUI of dashboard
+- input image <--model find out what's the program in the process as genetic operations--> output image 
+
+-
+---
+
+
+- evolutionary image processing
+
+- 
+
+--------------------------------------------
+Take away:
+
+- While EAs works slow but (accurate?)
+- And 
