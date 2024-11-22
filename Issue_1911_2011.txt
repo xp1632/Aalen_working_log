@@ -1,0 +1,79 @@
+Issues 1911_2011
+-----------------------------------------
+1. We'll write our simple result of `state of art`
+	- in local latex and git repo
+	
+- through currently we are not that familiar with latex
+- but it's a compulsory skill of writing the papers
+
+- let's start it slowly
+
+
+1.1 install and create a latex env
+
+1.2 how to create paragraph ?
+
+1.4 how to cite paper with bibtex?
+
+
+
+2. We'll finish reading vipergpt paper today
+
+- if the latex is still fuzzy
+- we just first write our thoughts in git issues
+
+
+v - we've summarized our thoughts for ViperGPT in https://github.com/xp1632/Aalen_working_log/issues/3
+
+
+
+3. start of using cluster
+
+- we've summarized our current understanding of clusters in 
+https://github.com/xp1632/Aalen_working_log/issues/4
+
+
+
+
+
+
+-------------------------------------------
+Main task today:
+
+1. Paper reading:  
+
+   v - Viper GPT paper
+	https://arxiv.org/pdf/2303.08128
+	
+    - Help Me Help the AI https://dl.acm.org/doi/pdf/10.1145/3544548.3581001
+
+	- AI for low-code for AI 
+	
+    - EA in microscopy images:
+    https://link.springer.com/content/pdf/10.1007/s00500-020-05033-0.pdf
+
+
+v 2. chores of accessing clusters
+	v - atalassian account for asr cluster 
+	v - pagenet for dfki cluster
+	- follow-up of aalen cluster
+		- Esslingen is waiting 
+		v - now we are using BwUniCluster2.0 
+
+
+
+----------------------------------------------
+My thoughts:
+
+- Questions for vipergpt:
+
+1. how did vipergpt link the python code and visual inference?
+
+2. what does their training dataset look like, is there also code snippet component in it?
+
+
+
+
+
+--------------------------------------------
+Take away:
