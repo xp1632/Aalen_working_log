@@ -1,0 +1,42 @@
+Issues 2811_2911
+-----------------------------------------
+1. We'll finish the Lowcoder paper this week
+
+- As of now, it doesn't show how Lale works for pipeline-side
+
+- Also, the NL interface is trained to produce one sklearn operator based on one query, not an entire pipeline
+
+- we finish summarizing AI for low code for AI in 
+https://github.com/xp1632/Aalen_working_log/issues/5
+
+
+
+
+
+
+
+
+
+-------------------------------------------
+Main task today:
+
+
+
+
+
+
+
+----------------------------------------------
+My thoughts:
+
+- CodeT5 and CodeX or CodeGen are capable of generating normal python code 
+- but are not specilized in generating moduralized 
+- we need to fine-tuning the medium-sized model and few-shot prompt the large-size model
+
+
+
+
+
+
+--------------------------------------------
+Take away:
