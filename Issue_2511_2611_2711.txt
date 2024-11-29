@@ -1,0 +1,102 @@
+Issues 2511_2611_2711
+-----------------------------------------
+1. Read paper `AI for low-code for AI`
+
+- in its related paper: 
+
+1.1 Expectation vs. Experience: Evaluating the Usability of Code
+Generation Tools Powered by Large Language Models
+https://dl.acm.org/doi/pdf/10.1145/3491101.3519665
+
+- mentioned the generated code by llm model is hard to understand for users 
+- also decomposition of complex task help improve the performance of llm
+
+- highlight different parts of code and generate test case help user understand and debug the code
+
+1.2 CodeGen: An Open Large Language Model for Code with Multi-Turn Program Synthesis
+
+- 2022, llm model for program synthesis 
+- https://arxiv.org/abs/2203.13474
+
+
+1.4 Pipeline Combinators for Gradual AutoML
+
+https://proceedings.neurips.cc/paper/2021/file/a3b36cb25e2e0b93b5f334ffb4e4064e-Paper.pdf
+
+- github slides and code: https://github.com/IBM/lale/blob/master/talks/2019-1105-lale.pdf
+
+- or Gradual AutoML using Lale https://dl.acm.org/doi/10.1145/3534678.3542630
+- introduce `Lale` 
+,  a sklearn-compatible library that offers compositional automated machine learning for data scientist and the **ml pipeline can be visualized as graphical pipeline**: 
+
+- we'll write the rest papers in the git issues 
+https://github.com/xp1632/Aalen_working_log/issues/5
+
+
+
+
+
+-------------------------------------------
+Main task today:
+
+
+
+
+
+
+
+----------------------------------------------
+My thoughts:
+
+1. to repair the meniscus
+
+- we need to first do MRI to check how bad it is broken
+- then do arthroscopy in knee
+
+- the doctor in Aalen can do MRI but cannot do operation 
+	- we find two doctor that can do knee operation in Stuttgart
+	
+	- 1. DEC .17: Mr. Priv.-Doz. Dr. med. habil. Ulf Schlegel https://www.doctolib.de/orthopadie/stuttgart/ulf-schlegel?insurance_sector=public&pid=practice-262479#presentation
+	(close to direct hbf but not 100% sure about insurance type)
+	
+	- 2. DEC.3 Dr. med. Steffen Odenwald
+	https://www.doctolib.de/orthopadie/stuttgart/steffen-odenwald?insurance_sector=public&pid=practice-217965
+	(sure about insurance type but a little walk required)
+
+
+
+
+
+--------------------------------------------
+Take away:
+
+### Team meeting
+
+- we have a team meeting today
+
+- Tim
+
+	1. Joint Proposal with Kaiserslautern persons
+		- topic about measuring quality of sythetic generated data
+		- in a task-indenpendent, meta way
+	
+	2. Abstract about coupling simulation for a short-notice conference, main content is based on previous CVPR paper
+		
+
+- Miriam
+	
+	1. Joint Discussion about the `synthetic traing data` topic in 2 weeks
+		- data collection from a master thesis is done
+		- further work required
+
+- Ziwei 
+	
+	- Last week: Literature research in llm and vp:
+	- work summary: 
+	
+		- viperGPT: 
+		- Lowcoder: 
+	
+	- Next: 
+		- Figure out the language model part used by LowCoder	
+		- Deploy cluster settings and test-run ViperGPT involved models
